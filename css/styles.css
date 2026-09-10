@@ -94,28 +94,32 @@ nav a:hover {
 
 /* 3. HERO BANNER POTENTE */
 .hero {
-  background: var(--gradient-hero), url('../images/hero.webp') center/cover no-repeat;
-  color: var(--white);
+  background-color: #0a192f;
+  color: #ffffff;
   text-align: center;
-  padding: 100px 20px;
-  border-radius: 0 0 30px 30px;
-  margin-bottom: 50px;
-  box-shadow: var(--shadow-lg);
+  padding: 80px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .hero h2 {
-  font-size: 3.2rem;
-  font-weight: 800;
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #ffffff !important;
+  text-shadow: none !important;
+  filter: none !important;
   margin-bottom: 15px;
-  text-shadow: 3px 3px 6px rgba(0,0,0,0.6);
-  letter-spacing: -0.5px;
 }
 
 .hero p {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   font-weight: 400;
-  margin-bottom: 30px;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+  color: #e0e6ed !important;
+  text-shadow: none !important;
+  filter: none !important;
+  margin-bottom: 25px;
 }
 
 /* BOTÓN DESTACADO (CTA) */
