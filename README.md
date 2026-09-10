@@ -19,4 +19,4 @@ Desarrollo de un sitio web para una agencia turística ficticia enfocado en la p
 ![Captura del sitio](images/hero.webp)
 
 ## URL del sitio publicado
-https://[TU-USUARIO-GITHUB].github.io/agencia-turismo/
+https://github.com/cguerrat-tech/agencia-turismo.git
